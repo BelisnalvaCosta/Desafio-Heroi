@@ -3,7 +3,7 @@ Este projeto foi feito na IDE Visual Studio Code, linguagem Javascript, HTML5 e 
 Objetivo: exercitar e por em prática o que tenho aprendido no Bootcamp GFT Start #6 - Lógica de Programação com o Expert Felipe Aguiar (DIO).
 Fiz um jogo simples usando as condicionais if e else para manipular os níveis dos personagens do Jogo.
 
-![image](C:\Users\X220\Videos\Captures\Classificador de Nível de Herói 10700 a 11000 - radiante.png)
+![nalva radiante](https://github.com/user-attachments/assets/e5322555-93e3-4833-8c21-77ac615a7c26)
 
 # Funcionamento:
 O usuário digita o nome e a XP do(a) herói(a).
