@@ -20,19 +20,21 @@ Fiz um jogo simples usando as condicionais if e else para manipular os níveis d
 
 Criar uma variável para armazenar o nome e a quantidade de experiência (XP) de um herói, depois utilize uma estrutura de decisão para apresentar alguma das mensagens abaixo:
 
-Se XP for menor do que 1.000 = Ferro
-Se XP for entre 1.001 e 2.000 = Bronze
-Se XP for entre 2.001 e 5.000 = Prata
-Se XP for entre 5.001 e 7.000 = Ouro
-Se XP for entre 7.001 e 8.000 = Platina
-Se XP for entre 8.001 e 9.000 = Ascendente
-Se XP for entre 9.001 e 10.000= Imortal
-Se XP for maior ou igual a 10.001 = Radiante
+- Se XP for menor do que 1.000 = Ferro
+- Se XP for entre 1.001 e 2.000 = Bronze
+- Se XP for entre 2.001 e 5.000 = Prata
+- Se XP for entre 5.001 e 7.000 = Ouro
+- Se XP for entre 7.001 e 8.000 = Platina
+- Se XP for entre 8.001 e 9.000 = Ascendente
+- Se XP for entre 9.001 e 10.000= Imortal
+- Se XP for maior ou igual a 10.001 = Radiante
 
 ## Saída
 
 Ao final deve se exibir uma mensagem:
 "O Herói de nome {nome} está no nível de {nivel}"
+
+## Meu Projeto:
 
 ![nalva radiante](https://github.com/user-attachments/assets/e5322555-93e3-4833-8c21-77ac615a7c26)
 https://belisnalvacosta.github.io/Desafio-Heroi/
