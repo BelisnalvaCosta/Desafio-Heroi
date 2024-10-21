@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Classificador de Nível de Herói</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Classificador de Nível de Herói</h1>
+        <div class="hero-container">
+            <img id="hero-main-image" src="imgSrc\nalva-vitoria.png" alt="Herói Inicial">
+        </div>
+        <div class="input-container">
+            <label for="hero-name">Nome do Herói(a) ou Vilão:</label>
+            <input type="text" id="hero-name" placeholder="opcional">
+            <label for="hero-xp">XP do personagem:</label>
+            <input type="number" id="hero-xp" placeholder="Digite a XP">
+        </div>
+        <button onclick="classificarHeroi()">Classificar Herói(a)</button>
+
+        <div id="resultado">
+            <a href="https://link-para-heroi-imortal.com" target="_blank">                
+            </a>
+        </div>          
+    </div>    
+    <script src="script.js"></script>
+</body>
+</html>
