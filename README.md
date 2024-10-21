@@ -45,4 +45,7 @@ Ao clicar em "Classificar Heróis", o jogo classifica o nível e a fase de acord
 Uma mensagem de vitória é exibida, informando o nível e a fase atual personagem.
 A imagem do herói(a) também muda de acordo com a fase em que ela está. Está em fase de construção.
 
+# Continuação do projero Desafio-Herói com funções e parâmetros (branch master).
+
+
 [^1]: Este projeto faz parte do desafio de projeto proposto pelo Expert Felipe Aguilar (DIO), e utilizei a IA generativa para corrigir bugs e gerar uma imagem "Nalva-hero". 
