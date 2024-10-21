@@ -1,18 +1,18 @@
 # Funcoes-Param-Heroi
 
-Este código é a continuação do Desafio de projeto Nível e fase do Herói, mais simplificado usando funções e parâmetros [^1].
+Este código é a continuação do Desafio de projeto Nível e fase do Herói, mais simplificado usando funções e parâmetros, está em fase de construção (pontos ainda a ser mellhorado) [^1].
 
 ![Heroina-Nalva](https://github.com/user-attachments/assets/18a74200-09a2-4d2f-b658-21473fc07669)
 
 # Construção das Funções:
 
 1. Função para Classificar o Herói:
-   - Essa função irá receber o nome do herói e a XP como parâmetros.
-   - Verificamos o nível e a fase com base na XP usando condições `if`.
-   - Dependendo do nível alcançado, exibimos uma imagem e uma mensagem personalizada.
+   - Essa função irá receber o nome do herói(sugestão: fica melhor se não por o nome) e a XP como parâmetros.
+   - Verifica o nível e a fase com base na XP usando condições `if`.
+   - Dependendo do nível alcançado, exibe uma imagem e uma mensagem personalizada.
 
 2. Função para Atualizar Imagem e Mensagem:
-   - Recebe o nome do herói, a fase e o nível como parâmetros.
+   - Recebe o nome do herói(opcional), a fase e o nível como parâmetros.
    - Atualiza a imagem e a mensagem no HTML de acordo com o nível e a fase.
 
 3. Função para Exibir Mensagem de Erro (caso não alcance nenhum nível):
@@ -34,7 +34,7 @@ Este código é a continuação do Desafio de projeto Nível e fase do Herói, m
 
 ## Fluxo para o Usuário:
 - O usuário insere o nome e o XP.
-- O sistema classifica o herói ou vilão em um dos três níveis (Ferro, Ouro, Radiante, Imortal) com uma imagem correspondente.
+- O sistema classifica o herói ou vilão em um dos quatros níveis (Ferro, Ouro, Radiante, Imortal) com uma imagem correspondente.
 - Se o XP não corresponder a nenhum critério, uma mensagem e imagem de erro serão exibidas.
 
-[^1]: Bootcamp GFT Start #6, professor Expert Felipe Aguiar (DIO).
+[^1]: Bootcamp GFT Start #6, professor Expert Felipe Aguiar (DIO), "projeto em andamento".
